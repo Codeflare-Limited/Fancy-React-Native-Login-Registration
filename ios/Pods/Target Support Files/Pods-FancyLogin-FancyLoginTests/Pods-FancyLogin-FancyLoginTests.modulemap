@@ -1,0 +1,6 @@
+module Pods_FancyLogin_FancyLoginTests {
+  umbrella header "Pods-FancyLogin-FancyLoginTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
